@@ -33,7 +33,7 @@ const CardEntry: React.FC<CardEntryProps> = ({
                                 onChange={(e) => onUpdateCard(entry.id, 'cardName', e.target.value)}
                                 className="border p-2 rounded card-name-input"
                             />
-                            <label>Copies:</label>
+                            <label>Copies in Deck:</label>
                             <input
                                 type="number"
                                 value={entry.copiesInDeck}
