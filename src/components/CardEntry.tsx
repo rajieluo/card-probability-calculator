@@ -16,7 +16,6 @@ interface CardEntryProps {
 
 const CardEntry: React.FC<CardEntryProps> = ({
     entries,
-    onAddCard,
     onRemoveCard,
     onUpdateCard
 }) => {
