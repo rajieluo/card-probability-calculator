@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# Simple TCG Card Probability Calculator
+Uses hypergeometric distribution calculations for finding probability. Created with Cursor AI using claude 3.5. No code was written by hand!
+
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
